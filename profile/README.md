@@ -1,4 +1,4 @@
-#  Travel Planner - Full Stack Enterprise Application
+#  Travel Planner - Full Stack Application
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java_21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
